@@ -41,7 +41,7 @@ The dataset contains sales data for Adidas products in the U.S., including the n
 ### 8. **City Performance by Units Sold and Total Sales**
    - A comparison of cities based on the number of units sold and total sales, giving insights into high-performing cities.
 
-> View the full analysis and charts in the PDF: [`adidas_sales_analysis_report.pdf`](./pdf-reports/adidas_sales_analysis_report.pdf).
+> View the full analysis and charts in the PDF: [`adidas_sales_analysis_report.pdf`](./adidas_sales_analysis_report.pdf).
 
 ---
 
