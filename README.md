@@ -30,7 +30,7 @@ The dataset contains sales data for Adidas products in the U.S., including the n
    - Another line chart visualizes the units sold by state within each region, helping identify regional sales performance.
 
 ### 5. **Effective Sales Method**
-   - The **Online Method** is the most effective sales method, with a total of **939,093 units sold**.
+   - The **Online Method proves** to be the most effective sales channel, showing the highest number of units sold compared to other methods.
 
 ### 6. **Sales for Each Retailer, Region, and State**
    - Displaying total sales for each retailer, region, and state to analyze geographical and retail performance.
