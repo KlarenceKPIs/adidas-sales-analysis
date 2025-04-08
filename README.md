@@ -1,7 +1,7 @@
 # adidas-sales-analysis
 Machine problem from my Data Mining course analyzing Adidas sales data using Power BI. It includes insights on sales trends, top retailers, regions, and products, summarized in a detailed PDF report.
 
-# Adidas Sales Analysis (Data Mining Class)
+# Adidas Sales Analysis (Data Mining Course)
 
 **Tools Used**: Power BI, Data Analysis, Data Visualization  
 **Objective**: Analyze Adidas sales trends, product performance, and sales effectiveness using Power BI visualizations.
